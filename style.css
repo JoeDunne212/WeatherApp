@@ -1,0 +1,32 @@
+body{
+   
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+   
+}
+
+.bg-purple  { background-color: var(--purple) }
+.bg-darken-1 { background-color: var(--darken-1) }
+.container{
+    max-width: 400px;
+}
+
+.icon{
+    position: relative;
+    top: -50px;
+    border-radius: 50%;
+    width: 100px;
+    width: 100px;
+    margin-bottom: -50px;
+}
+
+.cancel{
+    position: relative;
+    width: 20px;
+    margin: auto;
+    right: 1px;
+    top:30px;
+    border-radius: 50%;
+    
+
+}
